@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043764426144",
+    "project_id": "explore-maharashtra",
+    "storage_bucket": "explore-maharashtra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043764426144:android:37abdf66cc60e098bb60c5",
+        "android_client_info": {
+          "package_name": "com.project.explore_maharashtra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043764426144-t0q030j3v4hfqknh7ghbp61rtt33qjj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaxVPKB8_be4npgR4-jWkY8kOisIKeFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043764426144-t0q030j3v4hfqknh7ghbp61rtt33qjj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
