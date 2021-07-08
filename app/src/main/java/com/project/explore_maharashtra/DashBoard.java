@@ -1,18 +1,29 @@
 package com.project.explore_maharashtra;
 
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 import soup.neumorphism.NeumorphCardView;
 
 public class DashBoard extends AppCompatActivity {
 
-    NeumorphCardView pune,cardns,mtdc;
+    NeumorphCardView pune,cardAu,mtdc,kokan,nag;
+
+    TextView text;
+
+
 
 
 
@@ -21,21 +32,51 @@ public class DashBoard extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dash_board);
 
+
+        text=findViewById(R.id.textTitle);
+        text.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(DashBoard.this,About.class);
+                startActivity(intent);
+            }
+        });
+
+
         pune=findViewById(R.id.cardPune);
         pune.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent =new Intent(com.project.explore_maharashtra.DashBoard.this,PuneDivision.class);
                 startActivity(intent);
-                finish();
+
+            }
+        });
+        kokan=findViewById(R.id.cardKok);
+        kokan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent =new Intent(com.project.explore_maharashtra.DashBoard.this,KokanDivision.class);
+                startActivity(intent);
+
+            }
+        });
+        nag=findViewById(R.id.cardNag);
+        nag.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent =new Intent(com.project.explore_maharashtra.DashBoard.this,NagpurDivision.class);
+                startActivity(intent);
+
             }
         });
 
-        cardns=findViewById(R.id.cardNas);
-        cardns.setOnClickListener(new View.OnClickListener() {
+
+        cardAu=findViewById(R.id.cardAu);
+        cardAu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(DashBoard.this, PuneDist.class);
+                Intent intent=new Intent(DashBoard.this,AurangabadDivision.class);
                 startActivity(intent);
             }
         });
@@ -47,6 +88,7 @@ public class DashBoard extends AppCompatActivity {
             }
         });
 
+
     }
     private void gotoUrl(String s){
 
@@ -54,9 +96,6 @@ public class DashBoard extends AppCompatActivity {
         startActivity(new Intent(Intent.ACTION_VIEW,uri));
 
     }
-
-
-
 
 
 }

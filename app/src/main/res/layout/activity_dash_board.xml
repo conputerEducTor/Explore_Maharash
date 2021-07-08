@@ -16,26 +16,27 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <TextView
-                android:id="@+id/textTitle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="@dimen/_14sdp"
-                android:layout_marginTop="@dimen/_14sdp"
-                android:layout_marginEnd="@dimen/_14sdp"
-                android:text="Maharashtra Divisions"
-                android:textColor="@color/primary_text"
-                android:textSize="@dimen/_24ssp"
-                android:textStyle="bold"
-                app:layout_constraintTop_toTopOf="parent" />
+                <TextView
+                    android:id="@+id/textTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginTop="@dimen/_14sdp"
+                    android:layout_marginEnd="@dimen/_40sdp"
+                    android:text="Maharashtra Divisions"
+                    android:textColor="@color/primary_text"
+                    android:textSize="@dimen/_20ssp"
+                    android:textStyle="bold"
+
+                    tools:ignore="MissingConstraints" />
 
             <androidx.constraintlayout.helper.widget.Flow
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="@dimen/_8sdp"
-                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginTop="@dimen/_25sdp"
                 android:layout_marginEnd="@dimen/_8sdp"
-                app:constraint_referenced_ids="cardPune , cardNas , cardKok , cardNag"
+                app:constraint_referenced_ids="cardPune , cardAu , cardKok , cardNag"
                 app:flow_horizontalGap="@dimen/_3sdp"
                 app:flow_maxElementsWrap="2"
                 app:flow_verticalGap="@dimen/_3sdp"
@@ -79,7 +80,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/_15sdp"
+                        android:layout_marginTop="@dimen/_5sdp"
                         android:text="Pune,Satara, Solapur,Kolhapur"
                         android:textColor="@color/secondary_text"
                         android:textSize="@dimen/_12sdp" />
@@ -89,7 +90,7 @@
             </soup.neumorphism.NeumorphCardView>
 
             <soup.neumorphism.NeumorphCardView
-                android:id="@+id/cardNas"
+                android:id="@+id/cardAu"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 app:neumorph_backgroundColor="@color/background"
@@ -115,16 +116,16 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="@dimen/_4sdp"
-                        android:text="Nashik Division"
+                        android:text="Aurang. Division"
                         android:textColor="@color/primary_text"
-                        android:textSize="@dimen/_13sdp"
+                        android:textSize="@dimen/_12sdp"
                         android:textStyle="bold" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/_15sdp"
-                        android:text="(10)"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:text="Aurang.,Parbhani,  Latur,Hingoli"
                         android:textColor="@color/secondary_text"
                         android:textSize="@dimen/_12sdp" />
 
@@ -167,8 +168,8 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/_15sdp"
-                        android:text="(10)"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:text="Thane,Mumbai,      Raigad,Ratnagiri"
                         android:textColor="@color/secondary_text"
                         android:textSize="@dimen/_12sdp" />
 
@@ -211,8 +212,8 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/_15sdp"
-                        android:text="(10)"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:text="Nagpur,Wardha,   Gondia"
                         android:textColor="@color/secondary_text"
                         android:textSize="@dimen/_12sdp" />
 
@@ -249,16 +250,13 @@
                         app:riv_corner_radius="@dimen/_8sdp"
                         tools:ignore="MissingConstraints" />
                 </androidx.constraintlayout.widget.ConstraintLayout>
-            </soup.neumorphism.NeumorphCardView>
 
+
+            </soup.neumorphism.NeumorphCardView>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
-
     </ScrollView>
-
-
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

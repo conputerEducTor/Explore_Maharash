@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/background"
-    tools:context=".MainActivity">
+    tools:context=".PuneDivision">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -16,16 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <ImageButton
-                android:id="@+id/back"
-                android:layout_width="wrap_content"
-                android:layout_height="50dp"
-                android:layout_marginEnd="52dp"
-                android:clickable="true"
-                android:src="@drawable/ic_rback"
-                app:layout_constraintBottom_toBottomOf="@+id/textTitle"
-                app:layout_constraintEnd_toStartOf="@+id/textTitle"
-                 />
+
 
             <TextView
                 android:id="@+id/textTitle"

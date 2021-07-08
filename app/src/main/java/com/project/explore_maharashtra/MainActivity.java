@@ -175,7 +175,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void launchHomeScreen() {
         introPref.setIsFirstTimeLaunch(false);
-        startActivity(new Intent(com.project.explore_maharashtra.MainActivity.this, com.project.explore_maharashtra.SplashScreen.class));
+        startActivity(new Intent(com.project.explore_maharashtra.MainActivity.this, com.project.explore_maharashtra.LoginActivity.class));
         finish();
     }
 

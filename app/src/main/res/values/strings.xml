@@ -296,10 +296,10 @@ The other route is from Pune/Lonavala where you have to drive till the Udhewadi 
     //Osho garden
     <string name="osho_time">The ashram is open on all days from 06:00 am to 10:30 pm.</string>
     <string name="osho_loc">17, Koregaon Park Road, Vasani Nagar, Koregaon Park, Pune, Maharashtra 411001.</string>
-    <string name="osho_fee1">1.Rs.870 per person for Indians for 1 day and 2-day entry tickets</string>
-    <string name="osho_fee2">2.Rs.1790 per person for foreigners for 1 day and 2-day entry tickets.</string>
-    <string name="osho_fee3">3. 3day and 4-day tickets are discounted by 15% around.</string>
-    <string name="osho_fee4">4.5 day entry tickets have discounts of 25% approximately and 30-day tickets will have a discount of about 40%.</string>
+    <string name="osho_fee1">1)Rs.870 per person for Indians for 1 day and 2-day entry tickets</string>
+    <string name="osho_fee2">2)Rs.1790 per person for foreigners for 1 day and 2-day entry tickets.</string>
+    <string name="osho_fee3">3) 3day and 4-day tickets are discounted by 15% around.</string>
+    <string name="osho_fee4">4)5 day entry tickets have discounts of 25% approximately and 30-day tickets will have a discount of about 40%.</string>
 
 
     //lal mahal
@@ -724,12 +724,8 @@ The other route is from Pune/Lonavala where you have to drive till the Udhewadi 
     <string name="mon_two">INR 600</string>
 
 
-
-
-
-
     <!--Aurangabad Division-->
-      <!--Aurangabad info-->
+    <!--Aurangabad info-->
     <!--Forts Info-->
     // Daulatabad Fort
     <string name="dau_desc">One of the most commanding and undefeatable forts in the entire country, Daulatabad Fort in Daulatabad; or Devagiri as it was known earlier, is among the must-visit places near Aurangabad. Around 11 km north-west of Aurangabad, this glorious fortress stands strong on a conical hill that stands around 200 m above the sea level.Looking back into the history of the fort, you will realize its importance and strength. Compared to the other forts within or far from the region, the defense of Daulatabad Fort was very strong.</string>
@@ -738,6 +734,192 @@ The other route is from Pune/Lonavala where you have to drive till the Udhewadi 
     <string name="dau_road">Aurangabad is the nearest city to reach Daulatabad Fort. Aurangabad is well connected by roadways from major cities of Maharashtra and direct state transport buses are available from cities like Mumbai, Pune, Nashik to reach Aurangabad.Further from Aurangabad, there are regular bus services to reach Daulatabad Fort. Tourists can also hire a private cab to reach the Devgiri fort. It is just a half-hour drive from Aurangabad to Dulatabad Fort.</string>
 
     //Sunheri Mahal, Aurangabad
-   <string name="sun_desc"></string>
+    <string name="sun_desc">Soneri Mahal was built by a Bandalkand chief who accompanied Aurangzeb into the Dakhan. The Mahal was built between 1651 AD and 1653 AD at a cost of Rs.50, 000 and in 1934 AD it was sold to the Nizam of Hyderabad for Rs.26, 400. The Mahal is named after the paintings in the palace that were once painted in gold.It is a grand two stored building constructed in typical Rajput style. The palace is made up of lime and stone. Sprawling over two storeys, the palace stands as a testimony of Indian architectural splendor with some intricate decorations all over. A well-manicured garden adds to its beauty. The entrance of the Palace is decorated with beautifully done arches.</string>
+    <string name="sun_loc">Pandariba Rd, Mahavir Chowk, Shahgunj, Aurangabad, Maharashtra 431001</string>
+    <string name="sun_time"> AM to 5 PM on all days except Mondays.</string>
+    <string name="sun_road">The taxi stand is next to the MSRTC bus stand; share jeeps also depart from here for destinations around Aurangabad. Expect to pay Rs.600 for a full-day tour in a rickshaw, or Rs.900 in a taxi.</string>
 
+    //Bibi ka Maqbara
+    <string name="bibi_time">8:00 AM - 8:00 PM</string>
+    <string name="bibi_road">Bibi ka Maqbara is situated around 5 km from the heart of Aurangabad city. You can opt for a public transport like an autorickshaw or bus or hire a taxi to reach the Maqbara. It is advisable to fix the tariff priorly in case you are travelling by autorickshaw.</string>
+    <string name="bibi_desc">Having a striking resemblance to Taj Mahal, the Bibi ka Maqbara is a beautiful mausoleum of Rabia- Ul - Daurani alias Dilras Banu Begum, the wife of Mughal Emperor Aurangzeb. Bibi ka Maqbara was constructed by Aurangzeb in the year 1661 in the memory of his wife. Aurangzeb attributed this magnificent edifice in the name of his son Azam Shah who was born in the year 1653, so as to commemorate Rabia - Ul - Daurani, who left for her heavenly abode in the year 1657.</string>
+    <string name="bibi_loc">Begumpura, Aurangabad, Maharashtra 431004</string>
+
+    // Naukhanda Palace, Aurangabad
+    <string name="nau_desc">A former royal palace in Aurangabad, the Naukhanda Palace was built in 1616 by Malik Ambar and had massive gateways leading to it. The magnificent palace has nine apartments, masjid, hot baths, kacheri in addition to several other structures which were subsequently ruined and later demolished. The Naukhanda Palace now houses The Aurangabad College For Women and is often a spot where people drop by to have a quick view of the once grand edifice.</string>
+    <string name="nau_loc">Paithan Village, Aurangabad, Maharashtra, 431001</string>
+    <string name="nau_road">Chikkalthana Airport (IXU) at Aurangabad helps in maintaining easy connectivity with all the other party of the country. Also, a wide network of public transport adds to the convenience. Naukhanda Palace is located in Paithan, which is approximately 11 km from the airport. Public transport is easily available for the commute</string>
+
+    //Killa Arak, Aurangabad
+    <string name="killa_desc">An elaborate palace with 4 entrances, Killa Arak is famous for housing the throne room of the Mughal Emperor Aurangzeb. The other highlights of this palace built on Aurangzeb orders are a Nakarkhana for the musicians, the durbar hall and Jumma Masjid. The other remains of Killa Arak are almost in ruins.</string>
+    <string name="killa_loc">Aurangabad, Aurangabad-Maharashtra - 431105</string>
+    <string name="killa_road">Located within the city, Killa Arak is easily accessible by the available means of transport.</string>
+    <string name="killa_time">All days of the week 10:00 AM - 5:00 PM</string>
+
+    <!--Temples-->
+    //SHREE GAJANAN MAHARAJ MANDIR
+    <string name="maha_desc">Shree Gajanan Maharaj Mandir is one of the prominent Temples in Aurangabad. The temple has two cultures regard saints to teaching real goodness and equality. The temple welcomes all the people who are seeking a place to worship God with a truthful mind. The temple is one of the beautifully built temples in the city that brings hundreds of visitors daily. Fruits and devotional photos are available for the devotees</string>
+    <string name="maha_spec">Donations, Annual and Daily Programs, Poojas, Architectural Structure, Activities and Anadhanam</string>
+    <string name="maha_timing">5:00 am - 10:30 pm</string>
+    //KHANDOBA TEMPLE
+    <string name="khandoba_desc">Khandoba Temple is one of the most beautiful temples in Aurangabad, and it is one of the four temples built by Peshawa in the 16th century. The temple has a beautifully carved vintage stone foundation. You can explore the temple and nearby famous tourist attractions. The temple gives you the best of leisure and the spirit of adventure that you can discover in the temple of Khandoba. Visit this temple to get a peaceful time over the weekends.</string>
+    <string name="khandoba_spec">Activities, Poojas, Architectural Style, Place of Worship, Religious Organization and Festival Celebrations</string>
+    <string name="khandoba_timing">All days of the week  5:00 AM - 10:00 PM</string>
+    //Bhadra Maruti Temple
+    <string name="bhadra_desc">At this temple, the idol of Hanuman is portrayed in a reclining or sleeping posture. It is one of only three places where Hanuman is represented in a sleeping posture. The second noted place is a temple on the banks of Ganga at sangam in Allahabad and Uttar Pradesh and the third is at Jam Sawali, Madhya Pradesh.The Bhadra Maruti Temple is considered one of the tourist attractions near Aurangabad and people gather in lakhs during auspicious occasions like Hanuman Jayanti and Ram Navami. People from Aurangabad and nearby places walk to the temple to offer puja on Saturdays in the Hindu calendar month of "Shraavana"</string>
+    <string name="bhadra_spec">The best time to visit is on days of complete no moon and Hanuman Jayanti festival.Photography is allowed here without any extra cost.</string>
+    <string name="bhadra_timing">05:00 am - 09:00 pm</string>
+    //Ghrishneshwar Lord Shiva Temple
+    <string name="shiva_desc">Grishneshwar Jyotirlinga Temple, sometimes referred to as the Ghrneshwar or Ghushmeshwar Temple, is one of the shrines dedicated to Lord Shiva that is referenced in the Shiva Purana.[2][3] The word Ghrneshwara means "lord of compassion".[2] The temple is an important pilgrimage site in the Shaiva tradition of Hinduism, which considers it as the last or twelfth Jyotirlinga (linga of light).[4] This pilgrimage site is located in Ellora (also called Verul), less than a kilometer from Ellora Caves – a UNESCO World Heritage site. It is about 30 kilometres (19 miles) north-west of the city of Aurangabad, and about 300 kilometres (190 miles) east-northeast from Mumbai.</string>
+    <string name="shiva_Timing">5:30 am to 11:00 pm every day; 3:00 am to 11:00 pm during the month of Shravan (August-September)</string>
+    <string name="shiva_spec">The elaborate temple structure with its intricately designed five-tier shikhara.The sacred Shiva Linga, which is one of the 12 Jyotirlingas in India.The court hall supported by 24 pillars, each of which is carved with images from mythological stories associated with Lord Shiva.</string>
+    //Kala Ganpati Mandir
+    <string name="kala_timing"> 5:00 Am - 9:00 Pm
+</string>
+    <string name="kala_desc">A temple with a lord ganeshas protrait which is balck in colour so famously known as kala ganpati. Many devtoees visit here daily. It has very good premise to sit and also has good area in temple yard to meditate, </string>
+    <string name="kala_spec">Famous temple in Aurangabad, Must Visit once, Ganpati bappas idol is beautifully made in Black Rock with Silver ornaments, very calm place around,</string>
+
+    <!-- Palces-->
+    //Chhatrapati Shivaji Museum
+    <string name="mus_desc">One of the best places to visit in Aurangabad is Chhatrapati Shivaji Museum which is dedicated to the fearless legendary Maratha warrior Chhatrapati Shivaji life and contribution. The museum has 6 halls for exhibition where multiple historically significant things are on display.Take a walk back into the history by browsing through various old war weapons, ancient rifles, sword shields and artifacts used to defeat the Mughals. The galleries also have several old pictures of the forts that Shivaji conquered and built during his lifetime.Other attractions include Copy of holy Quran written by Aurangzeb, war suit dating back to 500 years, Paithani Saree which is 400 years old and so much more. A tour of this museum will educate you with the glorious past of the Marathas.</string>
+    <string name="mus_loc">Himayat Bagh, Aurangabad</string>
+    <string name="mus_time">10 am to 6 pm</string>
+    <string name="mus_fee">INR 50 per person</string>
+    //Salim Ali Lake
+    <string name="lake_desc">If you prefer calm places with scenic beauty over bustling markets and touristy sites, Salim Ali Lake is one of the best tourist places in Aurangabad for you. Fringed with lush green vegetation, this large water body is, owing to its serene aura, a nature lover’s delight where one could listen to uninterrupted music of nature. A great diversity of birds can be spotted in the bird sanctuary around the lake, making it a favourite spot for bird watching among a large number of bird enthusiasts. Whether you would like to spend your day gazing at the natural splendour of the lake, capturing it on your camera, or exploring it on a boat, this place is worth a visit.</string>
+    <string name="lake_loc">Chhatrapati Nagar, Aurangabad</string>
+    <string name="lake_time">8 am to 5 pm</string>
+    <string name="lake_fee">Free Entry</string>
+    //Pitalkhora Caves
+    <string name="cave_desc">Dating back to 3rd century BCE, magnificent Pitalkhora Caves are carved out of the rocks making them one of the finest examples of rock-cut Architecture in India. These 14 ancient Buddhist caves are set in the Western Ghats right next to a gushing waterfall which enhances the beauty of the caves.Chaityas and Viharas are two types of caves where monks used to pray and stay. Now Archaeological Survey of India looks after this site that showcases many motifs, structures, paintings and so much more from the ancient times.</string>
+    <string name="cave_loc">Kannad, Maharashtra</string>
+    <string name="cave_time">9 am to 5 am</string>
+    <string name="cave_fee">INR 10 per person</string>
+    // Siddharth Garden and Zoo
+    <string name="zoo_desc">One of those Aurangabad tourist places that promise to turn an ordinary day into a delightful one, Siddharth Garden and Zoo is an ideal place to visit with family. It is a landscaped garden replete with a large variety of flowering plants and trees, an aquarium, and, unlike the usual gardens, a zoo – all in all, a favourite weekend spot for locals. While the garden provides plenty of space with calm atmosphere for relaxation, the zoo has some exotic species on display ranging from tigers and elephants to crocodiles and snakes. So, whether you want to take your kids out to educate them about wildlife or you are looking for a pretty spot for family picnic, this garden cum zoo must fit the bill.</string>
+    <string name="zoo_loc">Central Bus Stand Road, Mhada, Aurangabad</string>
+    <string name="zoo_time">9 am to 7 pm</string>
+    <string name="zoo_fee">INR 20 per person; Zoo – INR 50 per person</string>
+    // Bani Begum Garden
+    <string name="garden_desc">Teeming with an air of serenity and royalty, Bani Begum Garden is, without a doubt, one of the finest places to visit in Aurangabad. The garden is named after Bani Begum, Aurangzeb daughter-in-law, whose tomb is located in the heart of the site.In addition to a refreshing ambience created by the presence of lush grass, swaying trees, and beautiful fountains, the site also exhibits specimens of Mughal architecture through gracefully constructed domes and pillars. If not to learn about the history of Aurangabad, visit this place to spend an easy day in its calm surroundings</string>
+    <string name="garden_loc"> 24 km from Aurangabad City</string>
+    <string name="gardem_time">9 am to 6 pm</string>
+    <string name="garden_fee"> Free Entry</string>
+
+
+    <!--Hingoli-->
+    <!-- Temples-->
+    //Mallinath Digambar Jain
+    <string name="dig_desc">At Shirad Shahapur village of Aundha Nagnath taluka place falls one of the most historical temples of Jain community. There exists statue of Lord Mallinath which is about 300 years old. There is legendary story of establishment of this temple. Years back the idol was placed at Ardhapur. Bhattarak shree Premanand once saw this idol placed in between other confuted idols and was annoyed. He seeked permission from Nizam to move the idol to Karanja.</string>
+    <string name="dig_reach">Distance from Aurangabad by Road: 215 Km. Distance from Nanded by Road : 55 Km. Distance from Parbhani by Road: 45 Km. Distance from Hingoli by Road : 35 Km.</string>
+
+    //Sant Namdev Temple
+    <string name="temp_desc">Narsi village in the district is birth place of saint shree Namdev. The saint was born in 1270 and his full name is Namdev Damaji Relekar.Population of the village is around 8000 and it is between Hingoli and Risod. Every year a fair is arranged in memory of the saint. The state government has declared Narsi as holy place and tourist place.</string>
+    <string name="temp_reach">Distance from Aurangabad by Road : 250 Km. Distance from Nanded by Road : 110 Km. Distance from Parbhani by Road : 100 Km. Distance from Hingoli by Road : 20 Km.</string>
+
+    //Aundha Nagnath Temple
+    <string name="nag_desc">Aundha Nagnath (Nageshwaram) is supposed to be the eighth of the twelve jyotirlingas in India, an important place of pilgrimage.The present temple is said to have been built by the Seuna (Yadava) dynasty and dates to 13th century. The first temple is said to be from time of the Mahabharata and is believed to have been constructed by Yudhishthira, eldest of the Pandavas, when they were expelled for 14 years from Hastinapur.</string>
+    <string name="nag_reach">By Road. Distance from Aurangabad by Road : 200 Km. Distance from Nanded by Road : 70 Km.</string>
+    //Shree Nageshwar Jyotirling Temple
+    <string name="jyot_desc">Located on the route between Dwarka city and Beyt Dwarka Island on the coast of Saurashtra in Gujarat is this important Lord Shiva Temple. It is enshrined by one of the 12 swayambhu (self-existent) jyothirlingas in the world, in an underground sanctum. A 25 m tall statue of a sitting Lord Shiva and a large garden with a pond are major attractions of this rather serene place. Some archaeological excavations claim five earlier cities at the site.</string>
+    <string name="jyot_reach">By roadways directly along NH 947 from there travelling 16 km along Nageshwar road.</string>
+
+
+    <!--Latur-->
+    <!--Fort-->
+    //Ausa Fort
+    <string name="Ausa_desc">The fort is situated in a depression surrounded by high ground on all the sides so that from its highest point one can have a view of the approaching armies even at a great distance while the main parts of the fort remain hidden from the latter. Almost square in shape, the fort has a moat or khandak (ditch) around, nearly 36.58 meters (120 ft) in width, now nearly dry. Fort has a glance, a retaining wall, a covered way, a double rampart fortified further with massive bastions, which are mostly semi-circular mounted with huge cannon. Some of these guns bear the names of Turkish engineers in service under Adil Sahi and Nizam Sahi kings</string>
+    <string name="Ausa_reach">Regular State Transport buses are available from any Maharashtra State Road Transport Corporation Bus Stand. National Highway 62 passes through Ausa Taluka in Latur District.</string>
+    //Udgir fort
+    <string name="udgir_desc">Udgir Fort in the Udgir city in Latur district, Maharashtra of India is a fort built in pre-Bahamani age, dating from the twelfth century CE. It is also famous for the historic battle in which Marathas, led by Sadashivrao Bhau, defeated Nizam, and after which the treaty of Udgir was signed.There are many old military observation points, and rest houses scattered over the surrounding hills, all built from an unusual white clay. However, all have long since fallen into ruin. Udgir Fort may also have a deep underground tunnel connecting it with Bhalki and Bider forts.</string>
+    <string name="udgir_reach">Regular State Transport buses are available from any Maharashtra State Road Transport Corporation Bus Stand. National Highway 62 passes through Ausa Taluka in Latur District.</string>
+    //Tandulwadi Fort
+    <string name="tandul_desc">he first known history of the fort was in the 15th century (about 1429) during the rule of Jafar Khan, son of Ahmed Shah of the Gujarat Sultanate. It was used as a reconnoiter fort to keep a watch on neighboring forts and the Arabian Sea. In 1454, the Sultan of Ahmedabad captured Mahikavati (Mahim) and one of his Sardar named Mallik Allauddin was made chief of Tandulwadi fort. In 1509, the Portuguese took the fort after they wrested Diu from the Gujarat and established a stronghold at the nearby Vasai area, where they built the Vasai Fort. The Portuguese lost control of the area to the Marathas in 1737 after the battle of Bassein</string>
+    <string name="tandul_reach">Catch a state transport bus to Tandulwadi village (Frequency is 1-hour starts in morning 7).Ahmedabad highway NH8 – Varai phata – cross Vaitarna river bridge – Tandulwadi village</string>
+    //Naldurg Fort
+    <string name="nal_desc">Naldurg Fort is a historic fort in Naldurg town of Osmanabad district in Maharashtra state of India. Naldurg Fort is named after Nalraja who built the fort in medieval architectural style. The unique feature of the fort is that it encloses a knoll of basalt rock which juts out into the valley of the small Bori River and a long fortification wall with many bastions.</string>
+    <string name="nal_reach">35 km from Tuljapur, 50 km from Osmanabad, 50 km from Solapur</string>
+
+    <!--Temples-->
+    //Jagdamba Mata
+    <string name="jag_desc">agdamba Mata temple at Ganj golai was built in Rashtrakuta’s era. It is known to be a section of Tuljapur’s Tuljabhavani Temple. At Ganj golai devi temple navaratri mahostav is being celebrated every year with great fervor. During the mahostav the markets are blooming with traditional items and food specialties.</string>
+    <string name="jag_time">Hours or services may differ</string>
+    //Surat Shawali Darga
+    <string name="surat_desc">Surat Shawali Darga is located in Patel Chowk Ram Galli, which is a part of Latur city. This darga was constructed during 1939 AD in memory of a Muslim saint Saif Ulla Shah Sardari.An annual fair is conducted here during the months of June or July, which is held for over five days.</string>
+    <string name="surat_time">Hours or services may differ</string>
+    //Siddheshwar and Ratneshwar
+    <string name="sidh_desc">Siddheshwar and Ratneshwar Temple is situated about 2 kilometres (1.2 mi) from Latur City. The temple was built by King Tamradwaj. There are temples of Ramlingeswar, Bhuteswar, Keshavraj, Ram, Dutta present which add to the ancient cultural heritage of Latur city. The temple has been dedicated to Lord Siddharameshwar Swamy Siddarama of Solapur. He was a prophet of the Lingayat Veerashaivism sect of Hinduism. He was a spiritual leader and poet who belonged to the Kulla Kadigi community. The poet wrote beautiful verses in Kannada in the 12th century. At this time, he was also a part Basavanna’s Veerashaiva rebellion of 12th century.</string>
+    <string name="sidh_time">Opens every day between the hours 5.30 am and 8pm.</string>
+    //Shri Keshav Balaji
+    <string name="shr_desc">Shri Keshav Balaji Temple is built in the city of Ausa located near Latur District of Maharashtra. The temple is surrounded by hills. There are four other temples of Lord Ganesha, Lord Shiva, Lord Vitthal and Goddess Rukmini and Keshavanand Bapu in the same premises. The temple opens at 6:00 am and closes at 9:00 pm. Different Sevas are performed throughout the day. There is Prasadam at 10:00 am and 7:00 pm for the visitors everyday. Mahaprasadam is held every Friday in between 10:00 am to 6:00 pm.This Temple is a part of the project named ‘Dharma va Sanskar Nagari… Shri Maa Kankeshwari Devi Residency’.</string>
+    <string name="shr_time">Main Gate will remain close between 09.00 PM to 5.00 AM.</string>
+    //Shri virat Hanuman
+    <string name="virat_desc">Shri virat Hanuman Temple is located in parivar housing society near Ausa road latur. The construction of this temple is quit diffrent from other temples. this temple is also sorrounded by beautiful garden. the base of this temple is near about 12 fir high. The bae is covered by sangamravari floors. This idol is neary 25 fit high. It is very big in size and is coloured in scarlet (shenderi) colour. The idol is in standing position and looking very calm, The idol holds gadha in his one hand and another hand is on its loin. There are two big artificial lamps built in concret. The atmosphere arround this temple is very delightful.</string>
+    <string name="virat_time">6:00 AM - 8:00 PM</string>
+
+    <!--Thane Dist-->
+    <!--Forts-->
+    //Bassein Fort
+    <string name="bas_desc">Located in Vasai village of Thane District, this fort is visited by a number of people for its architecture and marvel features. As per history, this fort belonged to the Arab Sultanate of Cambay and was under the control of the Portuguese in the early 1400s. It was initially known as the The fort of St. Sebastian of Vasai and became the headquarters of the Portuguese Captain. With time, it was once owned by the Maratha clans and later ceded to the Britishers.</string>
+    <string name="bas_ad">Killa Rd, Police Colony, Vasai West, Vasai-Virar, Maharashtra 401201</string>
+    <string name="bas_built">Seuna (Yadava) dynasty</string>
+    <string name="bas_reach">Looking for the nearest stop or station to Fort Bassein? Check out this list of stops closest to your destination: Chimaji Appa Smarak; Vasai Tehsil Office.</string>
+    //Hirakot Fort
+    <string name="hir_desc">One of the other historic fort in Thane is the Diamond or Hirakot fort. This fort was earlier used as the town jail. Later it was used as a emigration depot by the Mauritius government. Today the fort houses the offices of Police Inspector and the Prant officer.</string>
+    <string name="hir_ad">Police Line, Alibag, Maharashtra 402201</string>
+    <string name="hir_built"> The hirakot fort was built by the marathas</string>
+    <string name="hir_reach">From mumdai, hirakot fort is about 95km away by road and you can travel via nh 66. from pune, this destination is about 142km away and can be reached using bengaluru - mumbai hwy/mumbai - pune hwy/mumbai - pune expy.</string>
+    //Kelva Fort
+    <string name="kel_desc">Another masterpiece built by the Portuguese in 16th century, this fort is situated on the Kelva beach and is surrounded by the palmy green Suru trees. This fort is surrounded by water bodies and is well known to look more spectacular during high tides.</string>
+    <string name="Kel_ad">Kelwa Jangera, Kelwa, Maharashtra</string>
+    <string name="kel_built">fort constructed by Portuguese </string>
+    <string name="kel_reach">Kelva Beach is situated only at a distance of 80km from Mumbai and can be easily reached either by taking the Mumbai-Ahmedabad Highway No. 8 to Vasai – Safale Road or Manor – Palghar road to Manor via Borivali – Dahisar.The beach is close to the Sitla Devi temple which is also a popular tourist attraction here.</string>
+    //Ghodbunder Fort
+    <string name="gho_desc">Located in Ghodbunder village, Thane, Ghodbunder Fort is known for its age old heritage. It was built back in 1730 by the Portuguese and was  earlier known as Cacabe De Tanna. In 1737, the Marathas took over the fort from the Portuguese. It was later captured by Britishers and used as a headquarter for district administration. Currently due to the ruins, the fort is under government for preservation and renovation purposes.</string>
+    <string name="gho_ad">Ghodbander Village, Ghodbunder, Mira Bhayandar, Maharashtra 401107</string>
+    <string name="gho_built">he fort was built in 1730 by the Portuguese </string>
+    <string name="gho_reach">Located on one of the hills near Ullas river, Ghodbunder Fort is one of the major historical tourist attractions in Maharashtra. Ghodbander fort is on the Ghodbander Road in Ghodbunder village, located at a distance of 24.4 km from thane railway station. One can take the Thane Borivli route from thane to reach the fort. </string>
+
+    <!--Temple-->
+    //VAJRESHWARI TEMPLE
+    <string name="var_desc">Vajreshwari Temple is one of the oldest temples in Thane. It is an ancient temple that was built in 1739, based on Vasai Fort architecture. The visitors and devotees can surround the ramparts and bastions and can get the feeling of God when entering the fort. Vajreshwari Temple features a congregation hall, sanctum, and the sanatorium. This temple will be the place where you can realise the Puranas (Hindu scriptures) the area of Vadvali described as being visited by Avatars (incarnations) includes The Akloli and Ganeshpuri hot springs are well known.</string>
+    <string name="var_spec">Deepavali, Festival Celebrations, Chitra Amavasya, Holi, Navratri Festival, Shri Dattajayanti, Godhadebaba Shrine Worship, Hanuman Jayanti, Religious Site, Poojas, Kojagiri Pournima and Prasadam</string>
+    <string name="var_time">Mon-Sun: 5:30am - 9pm</string>
+    //KOPINESHWAR MANDIR
+    <string name="kopi_desc">Kopineshwar Mandir is a renowned temple where one of Maharashtra state biggest Shivalinga is present. This temple is built with a diameter of 5 feet and is 5 feet tall. It is also considered to be one of the most sacred temples of supporters in the area. The temple is visited by many local devotees and tourists throughout the year. Kopineshwar Mandir was built by the Shilahara Dynasty, which faced restoration in the year 1760. The temple is set in a tranquil environment, which allows the visitors and devotees to enjoy a peaceful ambience with the gods presence.</string>
+    <string name="kopi_spec">Programs, Celebrations, Hindu Temple, Architectural Structure, Events, Poojas, Festivals and Historical Places</string>
+    <string name="kopi_time">Mon-Sun: 6am - 9pm</string>
+    //SAIBABA TEMPLE
+    <string name="sai_desc">Saibaba Temple in Thane is a Chota Shirdi which is one of the famous Sai temples in Thane. The temple faces thousands of devotees and visitors throughout the year. The idol in the temple is a replica of Shirdi Sai temple. This temple honours Sai Vardhapan Din for which a vast group of devotees gathers to celebrate it every year. Saibaba Temple performs daily, and special poojas; which also happens on festival days. Sai Baba devotees find this temple to be a calm and pleasing place. The temple is also one of the temples that houses a beautiful smiling face of Sai Baba.</string>
+    <string name="sai_spec">Festival Celebration, Special Poojas, Performances, Historical Places, Prasadam, Anadhanam, Hindu Temple, Sacred and Religious Sites</string>
+    <string name="sai_time"> Mon-Sat: 10am - 6pm Sun: Closed</string>
+    //Ganeshpuri Temple
+    <string name="gan_desc">This is a small town near Bhiwandi, about 40 km from Thane which is the residence of Swami Nityananda Maharaj. An ancient temple is also there with four tanks called kundas. The kundas are some 800 years old. It is more famous for its hot water springs. Legend has it that Sage Vashist did a yagna to propitiate Lord Ganesh here, hence the name Ganeshpuri.</string>
+    <string name="gan_spec">Around 1936 when Nityananda baba came to Ganeshpuri from vajreshwari, He found this water springs and developed it to welcome villagers to have bath declaring it as sacred. </string>
+    <string name="gan_time">Mon-Sun: 4:22am - 9:30pm</string>
+    //Manas Jain Temple
+    <string name="man_desc">Manas Mandir is a beautiful place. It is in between Vasind and Asangoan. Shri Bhuvan Bhanu Jain Manas Mandir Tirtha, is situated at village savroli, in Shahapur taluka of Thane district of Maharashtra. It is around 85 kms from Mumbai and 45 kms from Thane and 30 kms from Bhiwandi.</string>
+    <string name="man_spec">Very nice place for a family trip. Very quite premises and well maintained. The place is spread across a really large area with trees and greenery everywhere. We missed the lunch but had tea with mathri which was very tasty.</string>
+    <string name="man_time">6:00 AM - 8:00 PM</string>
+
+    <!--Lake-->
+    //Masunda lake
+    <string name="mas_desc">This beautiful lake is located on the East side of Thane, in the heart of the city. It is surrounded by important historic places like Gadkari Rangayatan, St. John church, Kopineshwar temple, and Jambli market. People go there for boating, tonga rides, to munch on bhelpuri and indulge in other touristy things the place to offer.</string>
+    <string name="mas_his"> Earlier the Masunda Lake extended up to the Kopineshwar Mandir in the east but in the 1950s, the construction of a new road drastically reduced its area.</string>
+    //Kachrali Lake
+    <string name="kach_desc">Spread across 2 hectares, it is situated bang opposite the civic headquarters. This is a restored water body and at night it lights up to be even more beautiful. Youngsters and senior citizens often prefer to chill by this lake.</string>
+    <string name="kach_his">There is a temple of Lord Ganesh inside the lake premises. Once a slum area, major cleansing and beautification has transformed it to a joggers paradise. The government has brought Ducks on the lake, these ducks can be seen in the lake especially on the one tree island.</string>
+    //Makhmali lake
+    <string name="mak_desc">With an area of about one hectare, this lake is comparatively smaller. But it is beautiful nonetheless. As the name suggests, makhmali which literally means smooth, this smooth lake body is near the Uthalsar Ward office. It has a marriage hall in the background and at night when it is lit, it is a sight to behold. It also has a small garden area.</string>
+    <string name="mak_his">makhmali lake, Thane is a perfect destination for a great time with your dear ones. Enjoy the attractions of this popular tourist spot. With so much to lure your senses and offer you recreation at its best, get drenched in the spirit of adventure that you get to explore at makhmali lake, Thane. Enjoy together all the points of popular interests and bring back several memorable moments. makhmali lake.</string>
+    // Upvan Lake
+    <string name="up_desc">This is touted to be the most beautiful lake in the city. With Yeoor hills set against as a backdrop, it is located at the foothills of Thanes hill station. This lake is especially popular amongst young couples. It is a lovers lake. *wink*</string>
+    <string name="up_his">Environed by the majestic hills of Yeoor, the Eco-friendly Upvan lake is the largest of its kind in Thane of Maharashtra. Built and revamped by J. K. Singhania with the sole objective of supplying water to the Raymonf factory, the lake became a primal water supplier to the entire city of Thane.</string>
+    //Bramhala Lake
+    <string name="bra_desc">It is one of the oldest lakes of Thane and was revamped a few years ago. Post the uplift, a jogger’s track added, the garden is pruned and maintained regularly, this lake is breathtaking. People who seek calmness, head here and spend some time by it. It is opposite Babubhai Petrol Pump in Uthalsar Ward Committee.</string>
+    <string name="bra_his">The lakes in Thane bring nature close to the residents; therefore people are choosing to settle in Thane. Also the huge infrastructural development taking place all around the city has made it a people’s choice. Thane is the perfect spot away from the crowded suburbs of Mumbai, where people can enjoy in the womb of nature. Numerous malls, apartments, commercial spaces and transportation facilities are being developed all around the city to make the lifestyle of the citizens convenient and resourceful.</string>
+
+
+    <string name="tourism_mobile_apps_help_users_for_planning_travel_accommodation_bookings_ticket_bookings_cab_booking_route_mapping_and_more">Tourism Mobile apps help users for planning travel, accommodation bookings, ticket bookings, cab booking, route mapping, and more. </string>
+    <string name="however_these_are_just_the_basic_uses_of_tourism_mobile_apps_and_more_tourist_services_can_be_delivered">However, these are just the basic uses of tourism mobile apps, and more tourist services can be delivered</string>
 </resources>

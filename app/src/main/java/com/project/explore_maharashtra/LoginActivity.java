@@ -19,7 +19,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginActivity extends AppCompatActivity {
-    TextView btn;
+    TextView btn,forgot;
     Button btnLogin;
     EditText inputEmail,inputPassword;
     private FirebaseAuth mAuth;
@@ -36,17 +36,15 @@ public class LoginActivity extends AppCompatActivity {
 
 
 
-        SharedPreferences preferences=getSharedPreferences("PREFERENCE", MODE_PRIVATE);
+        forgot=findViewById(R.id.forgotPassword);
+        forgot.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(LoginActivity.this,ForegtPassword.class);
+                startActivity(intent);
+            }
+        });
 
-        String FirstTime=preferences.getString("FirstTimeInstall","");
-        if (FirstTime.equals("Yes")){
-            Intent intent=new Intent(LoginActivity.this,SplashScreen.class);
-            startActivity(intent);
-        }else {
-            SharedPreferences.Editor editor = preferences.edit();
-            editor.putString("FirstTimeInstalled", "Yes");
-            editor.apply();
-        }
 
         btn=findViewById(R.id.textViewSignUp);
         inputEmail=findViewById(R.id.inputEmail);
