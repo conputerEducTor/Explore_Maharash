@@ -1,7 +1,6 @@
 plugins {
     id 'com.android.application'
-    id 'com.google.gms.google-services'
-    id 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+ 
 }
 
 android {
@@ -40,22 +39,7 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-    implementation "com.airbnb.android:lottie:3.7.0"
-    //scalable size units
-    implementation 'com.intuit.sdp:sdp-android:1.0.6'
-    implementation 'com.intuit.ssp:ssp-android:1.0.6'
-
-    //neumorphism
-    implementation 'com.github.fornewid:neumorphism:0.3.0'
-
-    //round image view
-    implementation 'com.makeramen:roundedimageview:2.3.0'
-
-    //notification one signal
-    implementation 'com.onesignal:OneSignal:4.4.0'
-
-    //Addmob
-    implementation 'com.google.android.gms:play-services-ads:20.2.0'
+    
    
 
 
