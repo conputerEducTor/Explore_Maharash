@@ -181,31 +181,7 @@
         <activity android:name=".PuneTempleDehu" />
         <activity android:name=".PuneTempleJain" />
         <activity android:name=".PuneTempleJejuri" />
-        <activity android:name=".PuneTempleChattushringi" />
-        <activity android:name=".PuneTempleBhimashankar" />
-        <activity
-            android:name=".MainActivity"
-            android:theme="@style/FullScreen">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".SplashScreen" />
-        <activity android:name=".DashBoard" />
-        <activity android:name=".PuneDivision" />
-        <activity android:name=".PuneDist" />
-        <activity android:name=".PuneForts" />
-        <activity android:name=".PuneFortShivneri" />
-        <activity android:name=".PuneFortSinhgad" />
-        <activity android:name=".PuneFortRajmanchi" />
-        <activity android:name=".PuneFortPratapgad" />
-        <activity android:name=".PuneFortKothaligad" />
-        <activity android:name=".PuneFortGhangad" />
-        <activity android:name=".PuneFortRajgad" />
+      
         <activity android:name=".PuneFortRohida" />
         <activity android:name=".PuneFortTung" />
         <activity android:name=".PuneFortTikona" />
